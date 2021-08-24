@@ -15,7 +15,7 @@
 		navarea: '20%',
 		curslide: 0,
 		threshold: 75,
-		navbuttons : ['http://www.dynamicdrive.com/dynamicindex4/left.png', 'http://www.dynamicdrive.com/dynamicindex4/right.png', 125]
+		navbuttons : ['left.png', 'right.png', 125]
 	}
 
 	var swipeOptions={
